@@ -3,6 +3,7 @@ GPT-2 Text Generation &amp; Fine-tuning on Computer Topic
 
 ## 📁 Project Structure
 
+```
 gpt2-text-generation-computer/
 │
 ├── README.md
@@ -23,4 +24,4 @@ gpt2-text-generation-computer/
     ├── random_output.txt
     ├── topk_output.txt
     └── topp_output.txt
-
+```
